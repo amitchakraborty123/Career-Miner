@@ -94,11 +94,11 @@ Visualization & Prediction Output
 
 <p align="left">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="40" height="40"/>
-<img src="https://playwright.dev/img/playwright-logo.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+<img src="https://github.com/amitchakraborty123/Career-Miner/blob/master/assets/Python-logo.png" height="40"/>
+<img src="https://github.com/amitchakraborty123/Career-Miner/blob/master/assets/Pandas_logo.svg.png" height="40"/>
+<img src="https://github.com/amitchakraborty123/Career-Miner/blob/master/assets/Selenium_Logo.png" height="40"/>
+<img src="https://github.com/amitchakraborty123/Career-Miner/blob/master/assets/playwright-logo.png" height="50"/>
+<img src="https://github.com/amitchakraborty123/Career-Miner/blob/master/assets/Postgresql_elephant.png" height="40"/>
 
 </p>
 
@@ -115,13 +115,13 @@ Visualization & Prediction Output
 <h3 align="left">Connect with me:</h3> 
 <p align="left"> 
     <a href="https://linkedin.com/in/mr-amit-chakraborty" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Amit Chakravarti" height="30" width="40" />
+        <img align="center" src="https://github.com/amitchakraborty123/Career-Miner/blob/master/assets/linkedin.png" alt="Amit Chakravarti" height="40" />
     </a> 
     <a href="https://twitter.com/mrchamit" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Amit Chakravarti" height="30" width="40" />
+        <img align="center" src="https://github.com/amitchakraborty123/Career-Miner/blob/master/assets/twitter-icon.png" alt="Amit Chakravarti" height="40" />
     </a> 
     <a href="https://www.facebook.com/amit.chakraborty.55" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Amit Chakravarti" height="30" width="40" />
+        <img align="center" src="https://github.com/amitchakraborty123/Career-Miner/blob/master/assets/facebook.png" alt="Amit Chakravarti" height="35" />
     </a> 
 </p>
-<img align="center" src="https://github.com/amitchakraborty123/Career-Miner/blob/master/assets/Gmail.png" alt="gmail" height="50" width="50" style="margin:-5px;" /> me.amitchakravarti@gmail.com
+<p>📧 me.amitchakravarti@gmail.com | 💻 github.com/amitchakraborty123</p>
