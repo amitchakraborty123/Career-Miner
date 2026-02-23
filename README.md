@@ -120,8 +120,8 @@ Visualization & Prediction Output
     <a href="https://twitter.com/mrchamit" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="othneildrew" height="30" width="40" />
     </a> 
-    <a href="https://fb.com/amit.chakraborty.55" target="blank">
+    <a href="https://www.facebook.com/amit.chakraborty.55" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="othneildrew" height="30" width="40" />
     </a> 
 </p>
-<img align="center" src="https://static.vecteezy.com/system/resources/thumbnails/054/848/740/small/gmail-icon-logo-communication-app-free-png.png"alt="gmail" height="50" width="50" style="margin:-5px;" /> me.amitchakravarti@gmail.com
+<img align="center" src="https://static.vecteezy.com/system/resources/thumbnails/054/848/740/small/gmail-icon-logo-communication-app-free-png.png" alt="gmail" height="50" width="50" style="margin:-5px;" /> me.amitchakravarti@gmail.com
