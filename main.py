@@ -1,14 +1,23 @@
-# This is a sample Python script.
+# -----------------------------------------------------------
+#  All Libraries
+# -----------------------------------------------------------
+import os
+import time
+import datetime
+import playwright
+import pandas as pd
+import tkinter as tq
+from job_portals import portal_indeed,portal_flex_jobs, portal_linkedin, portal_remote_co, portal_remote_ok, portal_career_builder
 
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 
 
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+# -----------------------------------------------------------
+#  All Functions
+# -----------------------------------------------------------
+def job_finder():
+    input("Input your Job Title & hit enter: ")
 
 
-# Press the green button in the gutter to run the script.
+
 if __name__ == '__main__':
-    print_hi('PyCharm')
+    job_finder()

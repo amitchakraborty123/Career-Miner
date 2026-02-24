@@ -1,3 +1,4 @@
+<h2 align="center">📢 This project is currently under development. It will be released soon...</h2>
 <h1 align="center">‍💼 Career Miner</h1>
 <h3 align="center">Smart Job Intelligence Platform Powered by Automation & Data Analytics</h3>
 
@@ -12,8 +13,15 @@
 
 ## 📸 Screenshots
 
+- Coming soon...
 
+---
 
+## 📝 Instruction
+
+```bash
+  pip install -r requirements.txt
+```
 ---
 
 ## 📌 About The Project
